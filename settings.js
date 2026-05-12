@@ -1,7 +1,7 @@
 const settings = {
-  packname: 'Queen Riam',
-  author: 'Hector Manuel',
-  botName: 'Queen Riam',
+  packname: 'Dayat Hacker',
+  author: 'DayatHacker',
+  botName: 'Dayat Hacker',
   botOwner: 'Hector Manuel',
   timezone: 'Africa/Accra',
   prefix: '.',
