@@ -8,7 +8,7 @@ const settings = {
   ownerNumber: '',
   AUTO_STATUS_REACT: 'false',
   AUTO_STATUS_REPLY: 'false',
-  AUTO_STATUS_MSG: 'Status Viewed Queen Riam',
+  AUTO_STATUS_MSG: 'DayatHacker',
   AUTORECORD: 'false',
   AUTOTYPE: 'false',
   AUTORECORDTYPE: 'false',
